@@ -7,7 +7,3 @@ This project uses the Yelp API to fetch data for restaurants in Atlanta and visu
 - Display restaurant details including name, rating, location, and reviews.
 - Visualize data with Tableau.
 
-## How to Run:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/Yelp-API-Restaurant-Dashboard.git
