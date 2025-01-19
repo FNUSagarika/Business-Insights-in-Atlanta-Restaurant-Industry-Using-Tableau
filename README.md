@@ -1,10 +1,9 @@
-# Yelp API Restaurant Dashboard for Atlanta
+# Web Scraping Atlanta Restaurants with Yelp API & Visualizing Data in Tableau
 
-This project retrieves restaurant data from the Yelp API for the city of Atlanta, processes the data using Python, and visualizes the information in an interactive Tableau dashboard.
+This project demonstrates how to collect and visualize restaurant data from Yelp using web scraping techniques (through the Yelp API). The data, which includes restaurant names, ratings, locations, reviews, and categories, is retrieved from Yelp’s API, saved in CSV format, and visualized using Tableau.
 
 ## Project Overview
-
-The objective of this project is to fetch and analyze restaurant data from Yelp, including restaurant names, ratings, locations, reviews, and categories. The data is then saved in CSV format and visualized using Tableau for better insight into the restaurant scene in Atlanta. 
+The goal of this project is to simulate a web scraping process by leveraging Yelp’s API to extract valuable restaurant data for Atlanta. The data is then saved as CSV files, which can be imported into Tableau for creating interactive visualizations.
 
 **View the Tableau Dashboard**  
    You can view the final Tableau dashboard using the following link:  
