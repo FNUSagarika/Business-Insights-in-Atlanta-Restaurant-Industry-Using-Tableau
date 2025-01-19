@@ -7,3 +7,5 @@ This project uses the Yelp API to fetch data for restaurants in Atlanta and visu
 - Display restaurant details including name, rating, location, and reviews.
 - Visualize data with Tableau.
 
+Follow the link to view Tableau Dashboard
+https://public.tableau.com/app/profile/fnu.sagarika/viz/YelpAtlanta/Dashboard
