@@ -32,7 +32,7 @@ The objective of this project is to fetch and analyze restaurant data from Yelp,
 - **CSV**: To store data locally for later visualization.
 
 
- **Get Your Yelp API Key**  
+ **Get Yelp API Key**  
    - Go to Yelp's Developer Portal and sign up to get an API key.
    - Replace the placeholder `#` in the code with your actual API key.
 
