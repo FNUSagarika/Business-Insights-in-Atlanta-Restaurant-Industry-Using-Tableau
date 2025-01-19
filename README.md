@@ -37,11 +37,7 @@ The objective of this project is to fetch and analyze restaurant data from Yelp,
    - Replace the placeholder `#` in the code with your actual API key.
 
 **Run the Python Script**  
-   After replacing the API key, run the Python script to fetch the data:
-   ```bash
-   python fetch_yelp_data.py
-   ```
-
+   After replacing the API key, run the Python script to fetch the data.
    This will generate a CSV file named `atlanta_restaurants_full.csv` containing the restaurant data.
 
 **Upload the CSV to Tableau**  
