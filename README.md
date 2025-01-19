@@ -4,7 +4,11 @@ This project retrieves restaurant data from the Yelp API for the city of Atlanta
 
 ## Project Overview
 
-The objective of this project is to fetch and analyze restaurant data from Yelp, including restaurant names, ratings, locations, reviews, and categories. The data is then saved in CSV format and visualized using Tableau for better insight into the restaurant scene in Atlanta.
+The objective of this project is to fetch and analyze restaurant data from Yelp, including restaurant names, ratings, locations, reviews, and categories. The data is then saved in CSV format and visualized using Tableau for better insight into the restaurant scene in Atlanta. 
+
+**View the Tableau Dashboard**  
+   You can view the final Tableau dashboard using the following link:  
+   [View the Dashboard](https://public.tableau.com/app/profile/fnu.sagarika/viz/YelpAtlanta/Dashboard)
 
 ## Features
 
@@ -29,7 +33,7 @@ The objective of this project is to fetch and analyze restaurant data from Yelp,
 
 
  **Get Your Yelp API Key**  
-   - Go to [Yelp's Developer Portal](https://www.yelp.com/developers) and sign up to get an API key.
+   - Go to Yelp's Developer Portal and sign up to get an API key.
    - Replace the placeholder `#` in the code with your actual API key.
 
 **Run the Python Script**  
@@ -43,9 +47,6 @@ The objective of this project is to fetch and analyze restaurant data from Yelp,
 **Upload the CSV to Tableau**  
    Use Tableau to import the `atlanta_restaurants_full.csv` file and create your interactive dashboard.
 
-**View the Tableau Dashboard**  
-   You can view the final Tableau dashboard using the following link:  
-   [View the Dashboard](https://public.tableau.com/app/profile/fnu.sagarika/viz/YelpAtlanta/Dashboard)
 
 ## Code Explanation
 
