@@ -71,11 +71,3 @@ A second script aggregates the categories of the restaurants to create a summary
 - **Path**: Used for visualization purposes.
 
 
-## Acknowledgements
-
-- Thanks to Yelp for providing the API to access restaurant data.
-- Special thanks to Tableau for their powerful data visualization tool.
-  
----
-
-Feel free to customize this README as needed!
